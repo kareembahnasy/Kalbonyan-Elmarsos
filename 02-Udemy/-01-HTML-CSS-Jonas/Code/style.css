@@ -118,6 +118,12 @@ li :last-child{
 .nav{
   font-size: 20px;
 }
+
+nav a:link{
+  margin-right: 30px;
+  margin-top: 10px;
+  display: inline-block;
+}
 aside {
   background-color: #f7f7f7;
   border-top: 5px solid #1098ad;
