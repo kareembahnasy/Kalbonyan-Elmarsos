@@ -1,9 +1,9 @@
 
 
 .container{
-  width: 700px;
+  /* width: 700px;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto; */
 }
 
 /* global reset  */
@@ -187,3 +187,47 @@ button{
   top: 50px;
   left: 50px;
 }
+/* flex stuff */
+
+ .main-header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between ;
+
+}
+/* .the-post-header{
+  display: flex;
+} */
+
+.author-box{
+  display: flex;
+  align-items:center ;
+  margin-bottom: 15px;
+
+}
+
+.author{
+  margin-bottom: 0;
+  margin-left: 15px;
+}
+
+.related-author{
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  font-style:italic ;
+
+}
+
+.related-post{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.related-link :link{
+  font-size: 17px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  display: block;
+} 
