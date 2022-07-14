@@ -188,8 +188,8 @@ button{
   left: 50px;
 }
 /* flex stuff */
-
- .main-header{
+/* 
+ /* .main-header{
   display: flex;
   align-items: center;
   justify-content: space-between ;
@@ -199,7 +199,7 @@ button{
   display: flex;
 } */
 
-.author-box{
+/* .author-box{
   display: flex;
   align-items:center ;
   margin-bottom: 15px;
@@ -245,6 +245,40 @@ button{
   flex: 0 0 300px;
 } */
 
-article{
+/* article{
   flex:1 ;
-} 
+}  */
+
+/* css grid layout */
+
+.container{
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  column-gap: 75px;
+  row-gap: 60px;
+  align-items: start;
+}
+.main-header{
+  grid-column: 1 / span 2;
+
+}
+
+article{
+
+}
+
+aside {
+
+}
+
+footer{
+  
+  grid-column: 1 / -1;
+
+}
+
+.abutton{
+  
+  grid-column: 2 / 3;
+  
+}
