@@ -86,11 +86,16 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 # Learn How to Deploy your web applications with Cloud Provider (AWS)
 
 ![0%](https://progress-bar.dev/0/?title=Done)
+<<<<<<< HEAD
 
 - [ ] `in progress` `7h` - 16 - [AWS Certified Cloud Practitioner 2020](03-aCloudGuru/AWS%20Certified%20Cloud%20Practitioner%202020/)
 - [ ] `in progress` `35h` - 17 - [AWS Certified Solutions Architect Associate (SAA-C02)](<03-aCloudGuru/AWS%20Certified%20Solutions%20Architect%20Associate%20(SAA-C02)>)
+=======
+- [ ]  `in progress` `16h` - 16 - [AWS Certified Cloud Practitioner (CLF-C01)](03-aCloudGuru/AWS%20Certified%20Cloud%20Practitioner%20(CLF-C01)/)
+- [ ]  `in progress` `42h` - 17 - [AWS Certified Solutions Architect Associate (SAA-C02)](03-aCloudGuru/AWS%20Certified%20Solutions%20Architect%20Associate%20(SAA-C02))
+>>>>>>> a67f8ea317b6d8e5d3d8d724fc3229267c82a376
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-42h-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-58h-blue">
 <br />
 
 ---
